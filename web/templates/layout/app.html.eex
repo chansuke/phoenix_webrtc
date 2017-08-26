@@ -31,5 +31,6 @@
 
     </div> <!-- /container -->
     <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
+    <script src="//cdn.temasys.com.sg/adapterjs/0.10.x/adapter.debug.js"></script>
   </body>
 </html>
